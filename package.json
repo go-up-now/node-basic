@@ -1,0 +1,18 @@
+{
+  "name": "node-full-stack",
+  "version": "1.0.0",
+  "description": "huu nghia full stack developer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "huu nghia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
